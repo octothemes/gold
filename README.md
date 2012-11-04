@@ -1,6 +1,6 @@
 # Octopress Themes - Gold Theme
 
-![Octopress Gold Theme thumbnail](https://s3.amazonaws.com/static.liangzan.net/gold-thumbnail.png)
+![Octopress Gold Theme thumbnail](https://s3.amazonaws.com/static.octopressthemes.com/thumbnails/gold-thumbnail.png)
 
 Gold theme is a theme hand made for Octopress blogging framework. It is compatible with Octopress 2. Updates will be provided from this repository.
 
